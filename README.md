@@ -6,3 +6,7 @@ If you have any issues relating to: The MCPE Server, our discord server, or any 
 
 Also keep in mind - We are also called VoidMinerPE. Our main name for the server is VoidMinerPE, but our server nickname is called AuriousPE.
 Thanks.
+
+## Discord server
+We do have our own discord server for the MCPE Server. If you want to keep up to date, chat with our fellow staff, and players, or just want to hang out in there, now it's your time to shine. You can join our discord server here:
+https://discord.gg/R7gjzD7
